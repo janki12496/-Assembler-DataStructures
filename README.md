@@ -1,2 +1,2 @@
-# -Assembler-DataStructures
-Implemented three data structures being used by Assembler in C
+# Linker-Object-Module
+Implemented object module used by linkers and loaders in C 
