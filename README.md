@@ -1,2 +1,2 @@
-# Object-Module
-Implemented object module used by linkers and loaders in C 
+# LRU Page Replacement Algorithm
+Implementation of Page Replacement algorithm used by operating system.
